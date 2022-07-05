@@ -62,3 +62,43 @@
     border-radius: 5%;
     text-align: center;
 }
+
+.img4 {
+    width: 400px;
+    border-radius: 5%;
+}
+
+.tr {
+    display: inline-flex;
+    margin-top: 5%;
+    margin-left: 8%;
+    margin-right: 5%;
+    padding-left: 30px;
+    padding-top: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.a {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+.last2 {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    box-shadow: 10px 5px 10px gray;
+    border-radius: 10px;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 5%;
+}
