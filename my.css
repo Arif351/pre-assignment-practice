@@ -1,0 +1,41 @@
+.body-font {
+    font-family: 'Poppins', sans-serif;
+}
+
+.font {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+}
+
+#color {
+    color: rgb(243, 121, 7);
+}
+
+.paragh {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    padding: 0%;
+}
+
+.img1 {
+    width: 500px;
+}
+
+.flex {
+    display: flex;
+    margin: 5%;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(red, orange);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+
+}
+
+.img2 {
+    width: 100%;
+    display: block;
+}
