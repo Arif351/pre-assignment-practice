@@ -36,6 +36,29 @@
 }
 
 .img2 {
-    width: 100%;
+    width: 90%;
     display: block;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 7%;
+}
+
+.img-text {
+    margin: 20px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    color: orange;
+}
+
+#tt {
+    color: white;
+    font-style: normal;
+    text-decoration: none;
+    background-color: rgb(240, 143, 17);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5%;
+    text-align: center;
 }
